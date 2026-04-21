@@ -6,7 +6,7 @@ dependencies = ["pyloid>=0.27.2,<0.28"]
 
 [dependency-groups]
 dev = [
-    "poethepoet>=0.32.1,<0.44",
+    "poethepoet>=0.44.0,<0.45",
     "black>=24.10.0,<27",
     "flake8>=7.1.1,<8",
     "pyinstaller>=6.19.0",
