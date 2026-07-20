@@ -10,7 +10,7 @@ dev = [
     "black>=26.5.1,<27",
     "flake8>=7.3.0,<8",
     "pyinstaller>=6.19.0",
-    "ruff>=0.15.15",
+    "ruff>=0.15.22",
 ]
 
 [tool.uv]
